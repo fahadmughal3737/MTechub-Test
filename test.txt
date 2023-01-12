@@ -1,0 +1,13 @@
+use redux for cart of a online shop. 
+
+
+make a screen for cart having multiple products with quantity. 
+
+make another screen for confirmation of quantity by increment and decrement , which should be updated in previous screen of cart. 
+
+use this api for products. 
+
+
+
+httpsteamsuit.coreportSv2apiproductsgetAll.php
+ 
